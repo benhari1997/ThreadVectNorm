@@ -26,7 +26,7 @@ ___
 
 <b>Rq</b> : Note that the result inconsistency is due to the use of single-precision floating-point format (float / 32bit pres).
 
-![Example](examples\img-example.png)
+![Example](https://github.com/benhari1997/ThreadVectNorm/tree/main/examples/img-example.png)
 
 > #### Requirements :
 ___
